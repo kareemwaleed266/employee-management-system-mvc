@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Demo.BLL",
+    "\\Demo.DAL",
+    "\\Demo.DAL\\Context",
+    "\\Demo.PL",
+    "\\Demo.PL\\Views",
+    "\\Demo.PL\\Views\\Department"
+  ],
+  "SelectedNode": "\\Demo.DAL\\Demo.DAL.sln",
+  "PreviewInSolutionExplorer": false
+}

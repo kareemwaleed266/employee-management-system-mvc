@@ -1,0 +1,79 @@
+﻿@using Demo.DAL.Entities
+@model IEnumerable<Department>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>All Departments</h1>
+<br />
+<a asp-action="create" class="btn btn-primary">Create New Department</a>
+<br />
+<br />
+
+@if(TempData["MessageTemp"]!=null)
+{
+    <div class="alert alert-success">
+        <h3>@TempData["MessageTemp"]</h3>
+    </div>
+}
+@if(TempData["MessageTempUpdated"]!=null)
+{
+    <div class="alert alert-success">
+        <h3>@TempData["MessageTempupdated"]</h3>
+    </div>
+}
+@if(TempData["MessageTempDeleted"]!=null)
+{
+    <div class="alert alert-dark">
+        <h3>@TempData["MessageTempDeleted"]</h3>
+    </div>
+}
+@if(Model?.Count()>0)
+{
+    <table class="table table-striped table-hover">
+        <thead>
+            <tr>
+                <th>@Html.DisplayNameFor(x=> x.Code)</th>
+                <th>@Html.DisplayNameFor(x=> x.Name)</th>
+                <th>Details</th>
+                <th>Update</th>
+                <th>Delete</th>
+            </tr>
+        </thead>
+
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>@item.Code</td>
+                    <td>@item.Name</td>
+                    <td>
+                        <a class="btn btn-success" asp-controller="Department" asp-action="Details" asp-route-id="@item.Id">
+                            <i class="fas fa-eye"></i> Details
+                        </a>
+                    </td>
+
+                    <td>
+                        <a class="btn btn-warning" asp-controller="Department" asp-action="Update" asp-route-id="@item.Id">
+                            <i class="fas fa-edit"></i> Update
+                        </a>
+                    </td>
+
+                    <td>
+                        <a class="btn btn-danger" asp-controller="Department" asp-action="Delete" asp-route-id="@item.Id">
+                            <i class="fas fa-eye"></i> Delete
+                        </a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+else
+{
+    <div class="alert alert-warning">
+        <h3>Departments Not Found!</h3>
+    </div>
+}
+

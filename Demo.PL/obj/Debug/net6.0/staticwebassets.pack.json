@@ -1,0 +1,317 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\Kareem\\Route\\Course C# Route\\C#\\assignments\\MVC\\7\\Demo.PL\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Demo.PL.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Demo.PL.swpthx54c5.bundle.scp.css"
+    },
+    {
+      "Id": "E:\\Kareem\\Route\\Course C# Route\\C#\\assignments\\MVC\\7\\Demo.PL\\wwwroot\\Files\\Images\\054da0cf-d2e3-4b38-b495-8e9d82ce6ba7-WhatsApp Image 2023-04-04 at 6.03.43 PM.jpeg",
+      "PackagePath": "staticwebassets\\Files\\Images\\054da0cf-d2e3-4b38-b495-8e9d82ce6ba7-WhatsApp Image 2023-04-04 at 6.03.43 PM.jpeg"
+    },
+    {
+      "Id": "E:\\Kareem\\Route\\Course C# Route\\C#\\assignments\\MVC\\7\\Demo.PL\\wwwroot\\Files\\Images\\23595f37-26af-4e8b-a9f0-367c9719d475-WhatsApp Image 2023-04-04 at 6.03.43 PM.jpeg",
+      "PackagePath": "staticwebassets\\Files\\Images\\23595f37-26af-4e8b-a9f0-367c9719d475-WhatsApp Image 2023-04-04 at 6.03.43 PM.jpeg"
+    },
+    {
+      "Id": "E:\\Kareem\\Route\\Course C# Route\\C#\\assignments\\MVC\\7\\Demo.PL\\wwwroot\\Files\\Images\\41d463ea-2bb1-4a49-8d58-9b1b70966ac7-WhatsApp Image 2023-04-04 at 6.06.25 PM.jpeg",
+      "PackagePath": "staticwebassets\\Files\\Images\\41d463ea-2bb1-4a49-8d58-9b1b70966ac7-WhatsApp Image 2023-04-04 at 6.06.25 PM.jpeg"
+    },
+    {
+      "Id": "E:\\Kareem\\Route\\Course C# Route\\C#\\assignments\\MVC\\7\\Demo.PL\\wwwroot\\Files\\Images\\4979e144-abc5-4d64-ac87-cd1ca37faf48-WhatsApp Image 2023-04-04 at 6.06.25 PM.jpeg",
+      "PackagePath": "staticwebassets\\Files\\Images\\4979e144-abc5-4d64-ac87-cd1ca37faf48-WhatsApp Image 2023-04-04 at 6.06.25 PM.jpeg"
+    },
+    {
+      "Id": "E:\\Kareem\\Route\\Course C# Route\\C#\\assignments\\MVC\\7\\Demo.PL\\wwwroot\\Files\\Images\\936abfe3-8b85-4af7-9572-b0c228f5cccc-WhatsApp Image 2023-04-04 at 6.06.25 PM.jpeg",
+      "PackagePath": "staticwebassets\\Files\\Images\\936abfe3-8b85-4af7-9572-b0c228f5cccc-WhatsApp Image 2023-04-04 at 6.06.25 PM.jpeg"
+    },
+    {
+      "Id": "E:\\Kareem\\Route\\Course C# Route\\C#\\assignments\\MVC\\7\\Demo.PL\\wwwroot\\Files\\Images\\d84f1031-204c-447f-9f4d-ae575f7534cc-WhatsApp Image 2023-04-04 at 6.06.25 PM.jpeg",
+      "PackagePath": "staticwebassets\\Files\\Images\\d84f1031-204c-447f-9f4d-ae575f7534cc-WhatsApp Image 2023-04-04 at 6.06.25 PM.jpeg"
+    },
+    {
+      "Id": "E:\\Kareem\\Route\\Course C# Route\\C#\\assignments\\MVC\\7\\Demo.PL\\wwwroot\\Files\\Images\\dbdc1ed9-f9e7-444a-b167-b166b2fad0f9-WhatsApp Image 2023-04-04 at 6.03.43 PM.jpeg",
+      "PackagePath": "staticwebassets\\Files\\Images\\dbdc1ed9-f9e7-444a-b167-b166b2fad0f9-WhatsApp Image 2023-04-04 at 6.03.43 PM.jpeg"
+    },
+    {
+      "Id": "E:\\Kareem\\Route\\Course C# Route\\C#\\assignments\\MVC\\7\\Demo.PL\\wwwroot\\Files\\Images\\ddc2cd0e-a69b-40af-8da5-92ac7fb10b5a-WhatsApp Image 2023-04-04 at 6.03.43 PM.jpeg",
+      "PackagePath": "staticwebassets\\Files\\Images\\ddc2cd0e-a69b-40af-8da5-92ac7fb10b5a-WhatsApp Image 2023-04-04 at 6.03.43 PM.jpeg"
+    },
+    {
+      "Id": "E:\\Kareem\\Route\\Course C# Route\\C#\\assignments\\MVC\\7\\Demo.PL\\wwwroot\\Files\\Images\\e36b0c41-24e9-49d7-b5f6-c61e68ed0fe8-WhatsApp Image 2023-04-04 at 6.06.25 PM.jpeg",
+      "PackagePath": "staticwebassets\\Files\\Images\\e36b0c41-24e9-49d7-b5f6-c61e68ed0fe8-WhatsApp Image 2023-04-04 at 6.06.25 PM.jpeg"
+    },
+    {
+      "Id": "E:\\Kareem\\Route\\Course C# Route\\C#\\assignments\\MVC\\7\\Demo.PL\\wwwroot\\Files\\Images\\f031f1e2-bbaf-427d-98c5-ffdf595ef438-WhatsApp Image 2023-04-04 at 6.06.25 PM.jpeg",
+      "PackagePath": "staticwebassets\\Files\\Images\\f031f1e2-bbaf-427d-98c5-ffdf595ef438-WhatsApp Image 2023-04-04 at 6.06.25 PM.jpeg"
+    },
+    {
+      "Id": "E:\\Kareem\\Route\\Course C# Route\\C#\\assignments\\MVC\\7\\Demo.PL\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "E:\\Kareem\\Route\\Course C# Route\\C#\\assignments\\MVC\\7\\Demo.PL\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "E:\\Kareem\\Route\\Course C# Route\\C#\\assignments\\MVC\\7\\Demo.PL\\wwwroot\\css\\style1.css",
+      "PackagePath": "staticwebassets\\css\\style1.css"
+    },
+    {
+      "Id": "E:\\Kareem\\Route\\Course C# Route\\C#\\assignments\\MVC\\7\\Demo.PL\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "E:\\Kareem\\Route\\Course C# Route\\C#\\assignments\\MVC\\7\\Demo.PL\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "E:\\Kareem\\Route\\Course C# Route\\C#\\assignments\\MVC\\7\\Demo.PL\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "E:\\Kareem\\Route\\Course C# Route\\C#\\assignments\\MVC\\7\\Demo.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "E:\\Kareem\\Route\\Course C# Route\\C#\\assignments\\MVC\\7\\Demo.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "E:\\Kareem\\Route\\Course C# Route\\C#\\assignments\\MVC\\7\\Demo.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "E:\\Kareem\\Route\\Course C# Route\\C#\\assignments\\MVC\\7\\Demo.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "E:\\Kareem\\Route\\Course C# Route\\C#\\assignments\\MVC\\7\\Demo.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "E:\\Kareem\\Route\\Course C# Route\\C#\\assignments\\MVC\\7\\Demo.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "E:\\Kareem\\Route\\Course C# Route\\C#\\assignments\\MVC\\7\\Demo.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "E:\\Kareem\\Route\\Course C# Route\\C#\\assignments\\MVC\\7\\Demo.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\Kareem\\Route\\Course C# Route\\C#\\assignments\\MVC\\7\\Demo.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "E:\\Kareem\\Route\\Course C# Route\\C#\\assignments\\MVC\\7\\Demo.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "E:\\Kareem\\Route\\Course C# Route\\C#\\assignments\\MVC\\7\\Demo.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "E:\\Kareem\\Route\\Course C# Route\\C#\\assignments\\MVC\\7\\Demo.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "E:\\Kareem\\Route\\Course C# Route\\C#\\assignments\\MVC\\7\\Demo.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "E:\\Kareem\\Route\\Course C# Route\\C#\\assignments\\MVC\\7\\Demo.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "E:\\Kareem\\Route\\Course C# Route\\C#\\assignments\\MVC\\7\\Demo.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "E:\\Kareem\\Route\\Course C# Route\\C#\\assignments\\MVC\\7\\Demo.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\Kareem\\Route\\Course C# Route\\C#\\assignments\\MVC\\7\\Demo.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "E:\\Kareem\\Route\\Course C# Route\\C#\\assignments\\MVC\\7\\Demo.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "E:\\Kareem\\Route\\Course C# Route\\C#\\assignments\\MVC\\7\\Demo.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "E:\\Kareem\\Route\\Course C# Route\\C#\\assignments\\MVC\\7\\Demo.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "E:\\Kareem\\Route\\Course C# Route\\C#\\assignments\\MVC\\7\\Demo.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "E:\\Kareem\\Route\\Course C# Route\\C#\\assignments\\MVC\\7\\Demo.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "E:\\Kareem\\Route\\Course C# Route\\C#\\assignments\\MVC\\7\\Demo.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "E:\\Kareem\\Route\\Course C# Route\\C#\\assignments\\MVC\\7\\Demo.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\Kareem\\Route\\Course C# Route\\C#\\assignments\\MVC\\7\\Demo.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "E:\\Kareem\\Route\\Course C# Route\\C#\\assignments\\MVC\\7\\Demo.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "E:\\Kareem\\Route\\Course C# Route\\C#\\assignments\\MVC\\7\\Demo.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\Kareem\\Route\\Course C# Route\\C#\\assignments\\MVC\\7\\Demo.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "E:\\Kareem\\Route\\Course C# Route\\C#\\assignments\\MVC\\7\\Demo.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "E:\\Kareem\\Route\\Course C# Route\\C#\\assignments\\MVC\\7\\Demo.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "E:\\Kareem\\Route\\Course C# Route\\C#\\assignments\\MVC\\7\\Demo.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "E:\\Kareem\\Route\\Course C# Route\\C#\\assignments\\MVC\\7\\Demo.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\Kareem\\Route\\Course C# Route\\C#\\assignments\\MVC\\7\\Demo.PL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "E:\\Kareem\\Route\\Course C# Route\\C#\\assignments\\MVC\\7\\Demo.PL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "E:\\Kareem\\Route\\Course C# Route\\C#\\assignments\\MVC\\7\\Demo.PL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "E:\\Kareem\\Route\\Course C# Route\\C#\\assignments\\MVC\\7\\Demo.PL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "E:\\Kareem\\Route\\Course C# Route\\C#\\assignments\\MVC\\7\\Demo.PL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "E:\\Kareem\\Route\\Course C# Route\\C#\\assignments\\MVC\\7\\Demo.PL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "E:\\Kareem\\Route\\Course C# Route\\C#\\assignments\\MVC\\7\\Demo.PL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "E:\\Kareem\\Route\\Course C# Route\\C#\\assignments\\MVC\\7\\Demo.PL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "E:\\Kareem\\Route\\Course C# Route\\C#\\assignments\\MVC\\7\\Demo.PL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "E:\\Kareem\\Route\\Course C# Route\\C#\\assignments\\MVC\\7\\Demo.PL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "E:\\Kareem\\Route\\Course C# Route\\C#\\assignments\\MVC\\7\\Demo.PL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "E:\\Kareem\\Route\\Course C# Route\\C#\\assignments\\MVC\\7\\Demo.PL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "E:\\Kareem\\Route\\Course C# Route\\C#\\assignments\\MVC\\7\\Demo.PL\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\Kareem\\Route\\Course C# Route\\C#\\assignments\\MVC\\7\\Demo.PL\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "E:\\Kareem\\Route\\Course C# Route\\C#\\assignments\\MVC\\7\\Demo.PL\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "E:\\Kareem\\Route\\Course C# Route\\C#\\assignments\\MVC\\7\\Demo.PL\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "E:\\Kareem\\Route\\Course C# Route\\C#\\assignments\\MVC\\7\\Demo.PL\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "E:\\Kareem\\Route\\Course C# Route\\C#\\assignments\\MVC\\7\\Demo.PL\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "E:\\Kareem\\Route\\Course C# Route\\C#\\assignments\\MVC\\7\\Demo.PL\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "E:\\Kareem\\Route\\Course C# Route\\C#\\assignments\\MVC\\7\\Demo.PL\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "E:\\Kareem\\Route\\Course C# Route\\C#\\assignments\\MVC\\7\\Demo.PL\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\Kareem\\Route\\Course C# Route\\C#\\assignments\\MVC\\7\\Demo.PL\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "E:\\Kareem\\Route\\Course C# Route\\C#\\assignments\\MVC\\7\\Demo.PL\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "E:\\Kareem\\Route\\Course C# Route\\C#\\assignments\\MVC\\7\\Demo.PL\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Demo.PL.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Demo.PL.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.Demo.PL.props",
+      "PackagePath": "build\\Demo.PL.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Demo.PL.props",
+      "PackagePath": "buildMultiTargeting\\Demo.PL.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.Demo.PL.props",
+      "PackagePath": "buildTransitive\\Demo.PL.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

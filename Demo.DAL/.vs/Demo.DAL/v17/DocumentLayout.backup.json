@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Kareem\\Route\\Course C# Route\\C#\\assignments\\MVC\\7\\Demo.DAL\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{67AB59B8-6B07-45C8-B0F4-DA75DBEF6CE8}|..\\Demo.PL\\Demo.PL.csproj|e:\\kareem\\route\\course c# route\\c#\\assignments\\mvc\\7\\demo.pl\\demo.pl.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67AB59B8-6B07-45C8-B0F4-DA75DBEF6CE8}|..\\Demo.PL\\Demo.PL.csproj|e:\\kareem\\route\\course c# route\\c#\\assignments\\mvc\\7\\demo.pl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67AB59B8-6B07-45C8-B0F4-DA75DBEF6CE8}|..\\Demo.PL\\Demo.PL.csproj|e:\\kareem\\route\\course c# route\\c#\\assignments\\mvc\\7\\demo.pl\\views\\department\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67AB59B8-6B07-45C8-B0F4-DA75DBEF6CE8}|..\\Demo.PL\\Demo.PL.csproj|e:\\kareem\\route\\course c# route\\c#\\assignments\\mvc\\7\\demo.pl\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67AB59B8-6B07-45C8-B0F4-DA75DBEF6CE8}|..\\Demo.PL\\Demo.PL.csproj|e:\\kareem\\route\\course c# route\\c#\\assignments\\mvc\\7\\demo.pl\\views\\department\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Demo.PL",
+              "DocumentMoniker": "E:\\Kareem\\Route\\Course C# Route\\C#\\assignments\\MVC\\7\\Demo.PL\\Demo.PL.csproj",
+              "RelativeDocumentMoniker": "..\\Demo.PL\\Demo.PL.csproj",
+              "ToolTip": "E:\\Kareem\\Route\\Course C# Route\\C#\\assignments\\MVC\\7\\Demo.PL\\Demo.PL.csproj",
+              "RelativeToolTip": "..\\Demo.PL\\Demo.PL.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-24T07:50:59.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "E:\\Kareem\\Route\\Course C# Route\\C#\\assignments\\MVC\\7\\Demo.PL\\Views\\Department\\Delete.cshtml",
+              "RelativeDocumentMoniker": "..\\Demo.PL\\Views\\Department\\Delete.cshtml",
+              "ToolTip": "E:\\Kareem\\Route\\Course C# Route\\C#\\assignments\\MVC\\7\\Demo.PL\\Views\\Department\\Delete.cshtml",
+              "RelativeToolTip": "..\\Demo.PL\\Views\\Department\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-24T07:50:47.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "E:\\Kareem\\Route\\Course C# Route\\C#\\assignments\\MVC\\7\\Demo.PL\\Views\\Department\\Update.cshtml",
+              "RelativeDocumentMoniker": "..\\Demo.PL\\Views\\Department\\Update.cshtml",
+              "ToolTip": "E:\\Kareem\\Route\\Course C# Route\\C#\\assignments\\MVC\\7\\Demo.PL\\Views\\Department\\Update.cshtml",
+              "RelativeToolTip": "..\\Demo.PL\\Views\\Department\\Update.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-24T07:50:47.169Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DepartmentController.cs",
+              "DocumentMoniker": "E:\\Kareem\\Route\\Course C# Route\\C#\\assignments\\MVC\\7\\Demo.PL\\Controllers\\DepartmentController.cs",
+              "RelativeDocumentMoniker": "..\\Demo.PL\\Controllers\\DepartmentController.cs",
+              "ToolTip": "E:\\Kareem\\Route\\Course C# Route\\C#\\assignments\\MVC\\7\\Demo.PL\\Controllers\\DepartmentController.cs",
+              "RelativeToolTip": "..\\Demo.PL\\Controllers\\DepartmentController.cs",
+              "ViewState": "AQIAAE8AAAAAAAAAAAAowFYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T07:50:47.17Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Kareem\\Route\\Course C# Route\\C#\\assignments\\MVC\\7\\Demo.PL\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Demo.PL\\Program.cs",
+              "ToolTip": "E:\\Kareem\\Route\\Course C# Route\\C#\\assignments\\MVC\\7\\Demo.PL\\Program.cs",
+              "RelativeToolTip": "..\\Demo.PL\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABIAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T07:50:47.17Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
