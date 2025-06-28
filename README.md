@@ -1,7 +1,7 @@
- 🏢 Employee Management System – ASP.NET Core MVC
+# 👨‍💼 Employee Management System – ASP.NET Core MVC
 
-A robust **ASP.NET Core 6.0 MVC** web application for managing employees, departments, users and roles.  
-Built with **Entity Framework Core**, **ASP.NET Identity**, **Razor Views**, and follows a clean **3-layered architecture** for testability and maintainability.
+A clean, secure, and scalable **ASP.NET Core 6.0 MVC** web application for managing employees, departments, users, and roles.  
+Built with **Entity Framework Core**, **ASP.NET Identity**, and follows a layered architecture with Razor Views for a fully responsive UI.
 
 ---
 
@@ -18,52 +18,48 @@ Built with **Entity Framework Core**, **ASP.NET Identity**, **Razor Views**, and
 - 🧱 **Layered Architecture** separation (PL, BLL, DAL)  
 - 🎨 **Razor Views** + **Bootstrap** for responsive UI  
 - 🧪 **Swagger UI** available under `/swagger` for API testing  
-
 ---
 
 ## 🛠️ Tech Stack
 
-| Layer          | Technology                    |
-| -------------- | ------------------------------ |
-| **Framework**  | ASP.NET Core 6.0 MVC          |
-| **ORM**        | Entity Framework Core         |
-| **Identity**   | ASP.NET Core Identity         |
-| **Views**      | Razor Views + Bootstrap       |
-| **Database**   | SQL Server                    |
-| **Mapping**    | AutoMapper                    |
+| Layer / Purpose | Technology                     |
+| --------------- | ------------------------------ |
+| Framework       | ASP.NET Core 6.0 MVC           |
+| ORM             | Entity Framework Core          |
+| Database        | SQL Server                     |
+| Identity        | ASP.NET Core Identity          |
+| Views / UI      | Razor Views + Bootstrap 5      |
+| Mapping         | AutoMapper                     |
+| Docs            | Swagger (Swashbuckle)          |
 
 ---
 
-## 📁 Project Structure
+## 🧱 Project Structure (3-Layer Architecture)
 
-Demo.PL/ → Presentation Layer (MVC)
-├── Controllers/ → AccountController, EmployeeController, DepartmentController, RolesController, UserController, HomeController
-├── Models/ → ViewModels (SignUp, SignIn, EmployeeViewModel, DepartmentViewModel, etc.)
-├── Views/ → Razor Views (Account, Employee, Department, Roles, User, Shared)
-├── wwwroot/ → Static assets (CSS, JS, images)
-├── Program.cs → App entry point & DI setup
-├── appsettings.json → Configuration (ConnectionStrings, Identity options, etc.)
+The solution is separated into three main layers:
 
-Demo.BLL/ → Business Logic Layer
-├── Interfaces/ → IUnitOfWork, IGenericRepository, IEmployeeRepository, IDepartmentRepository
-├── Repositories/ → GenericRepository, EmployeeRepository, DepartmentRepository, UnitOfWork
-└── Demo.BLL.csproj
+### 1️⃣ **Presentation Layer** – `Demo.PL`
+- `Controllers/`  RESTful MVC controllers  
+- `Views/`  Razor Views (Employee, Department, Account, Roles, Shared)  
+- `wwwroot/`  Static assets (CSS, JS, images)  
+- `Program.cs`  App start-up & DI configuration  
+- `appsettings.json`  DB connection string, Identity options  
 
-Demo.DAL/ → Data Access Layer
-├── Context/ → AppDbContext (DbSets & Fluent API configurations)
-├── Entities/ → BaseEntity, Employee, Department, ApplicationUser, ApplicationRole
-├── Migrations/ → EF Core migration files
-└── Demo.DAL.csproj
+### 2️⃣ **Business Layer** – `Demo.BLL`
+- `Interfaces/`  IGenericRepository, IUnitOfWork, IEmployeeService …  
+- `Repositories/`  Unit-of-Work + concrete service/repository classes  
+- Handles validation, business rules, and coordinates DAL calls  
 
-yaml
-Copy
-Edit
+### 3️⃣ **Data Access Layer** – `Demo.DAL`
+- `Context/`  `AppDbContext` with DbSets & FluentAPI configs  
+- `Entities/`  Employee, Department, ApplicationUser, ApplicationRole  
+- `Migrations/`  EF Core migration history  
 
 ---
 
 ## 📦 Getting Started
 
-### 1️⃣ Clone the repository
-
+### 1️⃣ Clone the Repository
 ```bash
 git clone https://github.com/kareemwaleed266/employee-management-system-mvc.git
+cd employee-management-system-mvc
